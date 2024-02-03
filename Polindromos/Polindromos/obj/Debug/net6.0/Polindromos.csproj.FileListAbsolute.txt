@@ -1,0 +1,14 @@
+D:\UAM\Progra4\Polindromos\Polindromos\Polindromos\bin\Debug\net6.0\Polindromos.exe
+D:\UAM\Progra4\Polindromos\Polindromos\Polindromos\bin\Debug\net6.0\Polindromos.deps.json
+D:\UAM\Progra4\Polindromos\Polindromos\Polindromos\bin\Debug\net6.0\Polindromos.runtimeconfig.json
+D:\UAM\Progra4\Polindromos\Polindromos\Polindromos\bin\Debug\net6.0\Polindromos.dll
+D:\UAM\Progra4\Polindromos\Polindromos\Polindromos\bin\Debug\net6.0\Polindromos.pdb
+D:\UAM\Progra4\Polindromos\Polindromos\Polindromos\obj\Debug\net6.0\Polindromos.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAM\Progra4\Polindromos\Polindromos\Polindromos\obj\Debug\net6.0\Polindromos.AssemblyInfoInputs.cache
+D:\UAM\Progra4\Polindromos\Polindromos\Polindromos\obj\Debug\net6.0\Polindromos.AssemblyInfo.cs
+D:\UAM\Progra4\Polindromos\Polindromos\Polindromos\obj\Debug\net6.0\Polindromos.csproj.CoreCompileInputs.cache
+D:\UAM\Progra4\Polindromos\Polindromos\Polindromos\obj\Debug\net6.0\Polindromos.dll
+D:\UAM\Progra4\Polindromos\Polindromos\Polindromos\obj\Debug\net6.0\refint\Polindromos.dll
+D:\UAM\Progra4\Polindromos\Polindromos\Polindromos\obj\Debug\net6.0\Polindromos.pdb
+D:\UAM\Progra4\Polindromos\Polindromos\Polindromos\obj\Debug\net6.0\Polindromos.genruntimeconfig.cache
+D:\UAM\Progra4\Polindromos\Polindromos\Polindromos\obj\Debug\net6.0\ref\Polindromos.dll
